@@ -37,7 +37,10 @@ dependencies:
   cupertino_icons: ^1.0.2
   url_launcher: ^6.1.14
   http: ^1.1.0
+<<<<<<< HEAD
   google_nav_bar: ^5.0.6
+=======
+>>>>>>> origin/main
 
 dev_dependencies:
   flutter_test:
@@ -61,6 +64,7 @@ flutter:
   # the material Icons class.
   uses-material-design: true
   assets:
+<<<<<<< HEAD
    - assets/images/background_image.jpg
    - assets/images/dtc_logo.jpg
    - assets/images/droid image.png
@@ -75,6 +79,10 @@ flutter:
    - assets/images/TWITTER.png
    - assets/images/YOUTUBE.png
    - assets/images/loginpage.png
+=======
+   - assets/
+   - assets/images/
+>>>>>>> origin/main
 
 
   # To add assets to your application, add an assets section, like this:
